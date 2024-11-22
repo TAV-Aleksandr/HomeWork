@@ -1,4 +1,6 @@
-# This is a sample Python script.
+#@# This is a sample Python script.
+# пример
+
     # "1st program"
 print('9**0.5*5 =',9**0.5*5)
 
@@ -13,3 +15,7 @@ print('2*2+2 == 2*(2+2) =', 2*2+2 == 2*(2+2))
     # "4th program"  '123.456' - cтрока"
 print("'123.456' - cтрока")
 print("int( float('123.456')*10 %10) =", int( float('123.456')*10 %10))
+
+    # "5th program"  '23.45' - cтрока"
+print("'23.45' - cтрока")
+print("int( float('23.45')*10 %10) =", int( float('23.45')*10 %10))
